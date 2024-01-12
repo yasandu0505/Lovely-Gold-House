@@ -1,0 +1,430 @@
+{
+  "shoes": [
+    {
+      "id": "1",
+      "itemCode": "S1",
+      "itemType": "Running Shoes kandian",
+      "culture": "kandian",
+      "name": "Nike Air Max",
+      "imgUrl": "shoes.webp"
+    },
+    {
+      "id": "2",
+      "itemCode": "S2",
+      "itemType": "Running Shoes kandian",
+      "culture": "kandian",
+      "name": "Nike Air Max",
+      "imgUrl": "shoes.webp"
+    },
+    {
+      "id": "3",
+      "itemCode": "S3",
+      "itemType": "Running Shoes indian",
+      "culture": "indian",
+      "name": "Nike Air Max",
+      "imgUrl": "shoes.webp"
+    },
+    {
+      "id": "4",
+      "itemCode": "S4",
+      "itemType": "Running Shoes indian",
+      "culture": "indian",
+      "name": "Nike Air Max",
+      "imgUrl": "shoes.webp"
+    },
+    {
+      "id": "5",
+      "itemCode": "S5",
+      "itemType": "Running Shoes kandian",
+      "culture": "kandian",
+      "name": "Nike Air Max",
+      "imgUrl": "shoes.webp"
+    },
+    {
+      "id": "6",
+      "itemCode": "S6",
+      "itemType": "Running Shoes kandian",
+      "culture": "kandian",
+      "name": "Nike Air Max",
+      "imgUrl": "shoes.webp"
+    },
+    {
+      "id": "7",
+      "itemCode": "S7",
+      "itemType": "Running Shoes western",
+      "culture": "western",
+      "name": "Nike Air Max",
+      "imgUrl": "shoes.webp"
+    },
+    {
+      "id": "8",
+      "itemCode": "S8",
+      "itemType": "Running Shoes western",
+      "culture": "western",
+      "name": "Adidas Originals",
+      "imgUrl": "shoes.webp"
+    }
+  ],
+  "frocks": [
+    {
+      "id": "1",
+      "itemCode": "F1",
+      "itemType": "Party Frock western",
+      "culture": "western",
+      "name": "Sparkling Sequin Frock",
+      "imgUrl": "bfrocks.webp"
+    },
+    {
+      "id": "2",
+      "itemCode": "F2",
+      "itemType": "Party Frock indian",
+      "culture": "indian",
+      "name": "Sparkling Sequin Frock",
+      "imgUrl": "bfrocks.webp"
+    },
+    {
+      "id": "3",
+      "itemCode": "F3",
+      "itemType": "Party Frock western",
+      "culture": "western",
+      "name": "Sparkling Sequin Frock",
+      "imgUrl": "bfrocks.webp"
+    },
+    {
+      "id": "4",
+      "itemCode": "F4",
+      "itemType": "Party Frock indian",
+      "culture": "indian",
+      "name": "Sparkling Sequin Frock",
+      "imgUrl": "bfrocks.webp"
+    },
+    {
+      "id": "5",
+      "itemCode": "F5",
+      "itemType": "Party Frock western",
+      "culture": "western",
+      "name": "Sparkling Sequin Frock",
+      "imgUrl": "bfrocks.webp"
+    },
+    {
+      "id": "6",
+      "itemCode": "F6",
+      "itemType": "Party Frock indian",
+      "culture": "indian",
+      "name": "Sparkling Sequin Frock",
+      "imgUrl": "bfrocks.webp"
+    },
+    {
+      "id": "7",
+      "itemCode": "F7",
+      "itemType": "Party Frock indian",
+      "culture": "indian",
+      "name": "Sparkling Sequin Frock",
+      "imgUrl": "bfrocks.webp"
+    }
+  ],
+  "sarees": [
+    {
+      "id": "1",
+      "itemCode": "SR1",
+      "itemType": "Silk Saree indian",
+      "culture": "indian",
+      "name": "Kanjivaram Silk Saree",
+      "imgUrl": "bsarees.jpeg"
+    },
+    {
+      "id": "2",
+      "itemCode": "SR1",
+      "itemType": "Silk Saree kandian",
+      "culture": "kandian",
+      "name": "Kanjivaram Silk Saree",
+      "imgUrl": "bsarees.jpeg"
+    },
+    {
+      "id": "3",
+      "itemCode": "SR1",
+      "itemType": "Silk Saree indian",
+      "culture": "indian",
+      "name": "Kanjivaram Silk Saree",
+      "imgUrl": "bsarees.jpeg"
+    },
+    {
+      "id": "4",
+      "itemCode": "SR1",
+      "itemType": "Silk Saree kandian",
+      "culture": "kandian",
+      "name": "Kanjivaram Silk Saree",
+      "imgUrl": "bsarees.jpeg"
+    },
+    {
+      "id": "5",
+      "itemCode": "SR1",
+      "itemType": "Silk Saree indian",
+      "culture": "indian",
+      "name": "Kanjivaram Silk Saree",
+      "imgUrl": "bsarees.jpeg"
+    },
+    {
+      "id": "6",
+      "itemCode": "SR1",
+      "itemType": "Silk Saree kandian",
+      "culture": "kandian",
+      "name": "Kanjivaram Silk Saree",
+      "imgUrl": "bsarees.jpeg"
+    },
+    {
+      "id": "7",
+      "itemCode": "SR1",
+      "itemType": "Silk Saree indian",
+      "culture": "indian",
+      "name": "Kanjivaram Silk Saree",
+      "imgUrl": "bsarees.jpeg"
+    },
+    {
+      "id": "8",
+      "itemCode": "SR1",
+      "itemType": "Silk Saree kandian",
+      "culture": "kandian",
+      "name": "Kanjivaram Silk Saree",
+      "imgUrl": "bsarees.jpeg"
+    }
+  ],
+  "flower-bouquets": [
+    {
+      "id": "1",
+      "itemCode": "FB1",
+      "itemType": "Rose Bouquet kandian",
+      "culture": "kandian",
+      "name": "Red Roses Bouquet",
+      "imgUrl": "flb.webp"
+    },
+    {
+      "id": "2",
+      "itemCode": "FB1",
+      "itemType": "Rose Bouquet western",
+      "culture": "western",
+      "name": "Red Roses Bouquet",
+      "imgUrl": "flb.webp"
+    },
+    {
+      "id": "3",
+      "itemCode": "FB1",
+      "itemType": "Rose Bouquet kandian",
+      "culture": "kandian",
+      "name": "Red Roses Bouquet",
+      "imgUrl": "flb.webp"
+    },
+    {
+      "id": "4",
+      "itemCode": "FB1",
+      "itemType": "Rose Bouquet western",
+      "culture": "western",
+      "name": "Red Roses Bouquet",
+      "imgUrl": "flb.webp"
+    },
+    {
+      "id": "5",
+      "itemCode": "FB1",
+      "itemType": "Rose Bouquet kandian",
+      "culture": "kandian",
+      "name": "Red Roses Bouquet",
+      "imgUrl": "flb.webp"
+    },
+    {
+      "id": "6",
+      "itemCode": "FB1",
+      "itemType": "Rose Bouquet indian",
+      "culture": "indian",
+      "name": "Red Roses Bouquet",
+      "imgUrl": "flb.webp"
+    },
+    {
+      "id": "7",
+      "itemCode": "FB1",
+      "itemType": "Rose Bouquet indian",
+      "culture": "indian",
+      "name": "Red Roses Bouquet",
+      "imgUrl": "flb.webp"
+    },
+    {
+      "id": "8",
+      "itemCode": "FB1",
+      "itemType": "Rose Bouquet western",
+      "culture": "western",
+      "name": "Red Roses Bouquet",
+      "imgUrl": "flb.webp"
+    },
+    {
+      "id": "9",
+      "itemCode": "FB1",
+      "itemType": "Rose Bouquet kandian",
+      "culture": "kandian",
+      "name": "Red Roses Bouquet",
+      "imgUrl": "flb.webp"
+    },
+    {
+      "id": "10",
+      "itemCode": "FB1",
+      "itemType": "Rose Bouquet kandian",
+      "culture": "kandian",
+      "name": "Red Roses Bouquet",
+      "imgUrl": "flb.webp"
+    }
+  ],
+  "earrings": [
+    {
+      "id": "1",
+      "itemCode": "E1",
+      "itemType": "Diamond Earrings kandian",
+      "culture": "kandian",
+      "name": "Stud Diamond Earrings",
+      "imgUrl": "earrings.webp"
+    },
+    {
+      "id": "2",
+      "itemCode": "E1",
+      "itemType": "Diamond Earrings indian",
+      "culture": "indian",
+      "name": "Stud Diamond Earrings",
+      "imgUrl": "earrings.webp"
+    },
+    {
+      "id": "3",
+      "itemCode": "E1",
+      "itemType": "Diamond Earrings kandian",
+      "culture": "kandian",
+      "name": "Stud Diamond Earrings",
+      "imgUrl": "earrings.webp"
+    },
+    {
+      "id": "4",
+      "itemCode": "E1",
+      "itemType": "Diamond Earrings western",
+      "culture": "western",
+      "name": "Stud Diamond Earrings",
+      "imgUrl": "earrings.webp"
+    },
+    {
+      "id": "5",
+      "itemCode": "E1",
+      "itemType": "Diamond Earrings kandian",
+      "culture": "kandian",
+      "name": "Stud Diamond Earrings",
+      "imgUrl": "earrings.webp"
+    },
+    {
+      "id": "6",
+      "itemCode": "E1",
+      "itemType": "Diamond Earrings western",
+      "culture": "western",
+      "name": "Stud Diamond Earrings",
+      "imgUrl": "earrings.webp"
+    },
+    {
+      "id": "7",
+      "itemCode": "E1",
+      "itemType": "Diamond Earrings kandian",
+      "culture": "kandian",
+      "name": "Stud Diamond Earrings",
+      "imgUrl": "earrings.webp"
+    },
+    {
+      "id": "8",
+      "itemCode": "E1",
+      "itemType": "Diamond Earrings western",
+      "culture": "western",
+      "name": "Stud Diamond Earrings",
+      "imgUrl": "earrings.webp"
+    },
+    {
+      "id": "9",
+      "itemCode": "E1",
+      "itemType": "Diamond Earrings indian",
+      "culture": "indian",
+      "name": "Stud Diamond Earrings",
+      "imgUrl": "earrings.webp"
+    }
+  ],
+  "necklaces": [
+    {
+      "id": "1",
+      "itemCode": "N1",
+      "itemType": "Diamond Necklace indian",
+      "culture": "indian",
+      "name": "Exquisite Diamond Necklace",
+      "imgUrl": "necklace.webp"
+    },
+    {
+      "id": "2",
+      "itemCode": "N1",
+      "itemType": "Diamond Necklace western",
+      "culture": "western",
+      "name": "Exquisite Diamond Necklace",
+      "imgUrl": "necklace.webp"
+    },
+    {
+      "id": "3",
+      "itemCode": "N1",
+      "itemType": "Diamond Necklace indian",
+      "culture": "indian",
+      "name": "Exquisite Diamond Necklace",
+      "imgUrl": "necklace.webp"
+    },
+    {
+      "id": "4",
+      "itemCode": "N1",
+      "itemType": "Diamond Necklace western",
+      "culture": "western",
+      "name": "Exquisite Diamond Necklace",
+      "imgUrl": "necklace.webp"
+    },
+    {
+      "id": "5",
+      "itemCode": "N1",
+      "itemType": "Diamond Necklace indian",
+      "culture": "indian",
+      "name": "Exquisite Diamond Necklace",
+      "imgUrl": "necklace.webp"
+    },
+    {
+      "id": "6",
+      "itemCode": "N1",
+      "itemType": "Diamond Necklace western",
+      "culture": "western",
+      "name": "Exquisite Diamond Necklace",
+      "imgUrl": "necklace.webp"
+    },
+    {
+      "id": "7",
+      "itemCode": "N1",
+      "itemType": "Diamond Necklace indian",
+      "culture": "indian",
+      "name": "Exquisite Diamond Necklace",
+      "imgUrl": "necklace.webp"
+    },
+    {
+      "id": "8",
+      "itemCode": "N1",
+      "itemType": "Diamond Necklace kandian",
+      "culture": "kandian",
+      "name": "Exquisite Diamond Necklace",
+      "imgUrl": "necklace.webp"
+    },
+    {
+      "id": "9",
+      "itemCode": "N1",
+      "itemType": "Diamond Necklace kandian",
+      "culture": "kandian",
+      "name": "Exquisite Diamond Necklace",
+      "imgUrl": "necklace.webp"
+    },
+    {
+      "id": "10",
+      "itemCode": "N1",
+      "itemType": "Diamond Necklace kandian",
+      "culture": "kandian",
+      "name": "Exquisite Diamond Necklace",
+      "imgUrl": "necklace.webp"
+    }
+  ]
+}

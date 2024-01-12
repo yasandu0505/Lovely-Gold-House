@@ -1,0 +1,521 @@
+{
+  "necklaces": [
+    {
+      "id": "1",
+      "itemCode": "N1",
+      "itemType": "Diamond Necklace 22k",
+      "weight": "10g",
+      "weightRange": "8-12",
+      "metal": "22k",
+      "imgUrl": "necklace.webp"
+    },
+    {
+      "id": "2",
+      "itemCode": "N2",
+      "itemType": "Necklace 22k",
+      "weight": "2g",
+      "weightRange": "2-4",
+      "metal": "22k",
+      "imgUrl": "bneck.jpeg"
+    },
+    {
+      "id": "3",
+      "itemCode": "N3",
+      "itemType": "Diamond Necklace 18k",
+      "weight": "15g",
+      "weightRange": "12-20",
+      "metal": "18k",
+      "imgUrl": "necklace.webp"
+    },
+    {
+      "id": "4",
+      "itemCode": "N4",
+      "itemType": "Necklace 18k",
+      "weight": "12g",
+      "weightRange": "12-20",
+      "metal": "18k",
+      "imgUrl": "bneck.jpeg"
+    },
+    {
+      "id": "5",
+      "itemCode": "N1",
+      "itemType": "Diamond Necklace 22k",
+      "weight": "15g",
+      "weightRange": "12-20",
+      "metal": "22k",
+      "imgUrl": "necklace.webp"
+    },
+    {
+      "id": "6",
+      "itemCode": "N2",
+      "itemType": "Necklace 18k",
+      "weight": "15g",
+      "weightRange": "12-20",
+      "metal": "18k",
+      "imgUrl": "bneck.jpeg"
+    },
+    {
+      "id": "7",
+      "itemCode": "N1",
+      "itemType": "Diamond Necklace 22k",
+      "weight": "22g",
+      "weightRange": "20-24",
+      "metal": "22k",
+      "imgUrl": "necklace.webp"
+    },
+    {
+      "id": "8",
+      "itemCode": "N2",
+      "itemType": "Necklace 18k",
+      "weight": "5g",
+      "weightRange": "4-8",
+      "metal": "18k",
+      "imgUrl": "bneck.jpeg"
+    },
+    {
+      "id": "9",
+      "itemCode": "N2",
+      "itemType": "Necklace 18k",
+      "weight": "1g",
+      "weightRange": "<2",
+      "metal": "18k",
+      "imgUrl": "bneck.jpeg"
+    }
+  ],
+  "bangles": [
+    {
+      "id": "1",
+      "itemCode": "B1",
+      "itemType": "Silver Bangles 22k",
+      "weight": "8g",
+      "weightRange": "4-8",
+      "metal": "22k",
+      "imgUrl": "bangle.webp"
+    },
+    {
+      "id": "2",
+      "itemCode": "B1",
+      "itemType": "Silver Bangles 22k",
+      "weight": "10g",
+      "weightRange": "8-12",
+      "metal": "22k",
+      "imgUrl": "bangle.webp"
+    },
+    {
+      "id": "3",
+      "itemCode": "B1",
+      "itemType": "Silver Bangles 18k",
+      "weight": "8g",
+      "weightRange": "4-8",
+      "metal": "18k",
+      "imgUrl": "bangle.webp"
+    },
+    {
+      "id": "4",
+      "itemCode": "B1",
+      "itemType": "Silver Bangles 18k",
+      "weight": "15g",
+      "weightRange": "12-20",
+      "metal": "18k",
+      "imgUrl": "bangle.webp"
+    },
+    {
+      "id": "5",
+      "itemCode": "B1",
+      "itemType": "Silver Bangles 22k",
+      "weight": "3g",
+      "weightRange": "2-4",
+      "metal": "22k",
+      "imgUrl": "bangle.webp"
+    },
+    {
+      "id": "6",
+      "itemCode": "B1",
+      "itemType": "Silver Bangles 18k",
+      "weight": "1g",
+      "weightRange": "<2",
+      "metal": "18k",
+      "imgUrl": "bangle.webp"
+    },
+    {
+      "id": "7",
+      "itemCode": "B1",
+      "itemType": "Silver Bangles 22k",
+      "weight": "5g",
+      "weightRange": "4-8",
+      "metal": "22k",
+      "imgUrl": "bangle.webp"
+    },
+    {
+      "id": "8",
+      "itemCode": "B1",
+      "itemType": "Silver Bangles 22k",
+      "weight": "20g",
+      "weightRange": "20-24",
+      "metal": "22k",
+      "imgUrl": "bangle.webp"
+    },
+    {
+      "id": "9",
+      "itemCode": "B1",
+      "itemType": "Silver Bangles 18k",
+      "weight": "8g",
+      "weightRange": "4-8",
+      "metal": "18k",
+      "imgUrl": "bangle.webp"
+    }
+  ],
+  "rings": [
+    {
+      "id": "1",
+      "itemCode": "R1",
+      "itemType": "Sapphire Ring 18k",
+      "weight": "1g",
+      "weightRange": "<2",
+      "metal": "18k",
+      "imgUrl": "ring-2.jpeg"
+    },
+    {
+      "id": "2",
+      "itemCode": "R1",
+      "itemType": "Sapphire Ring 22k",
+      "weight": "5g",
+      "weightRange": "4-8",
+      "metal": "22k",
+      "imgUrl": "ring-2.jpeg"
+    },
+    {
+      "id": "3",
+      "itemCode": "R1",
+      "itemType": "Sapphire Ring 18k",
+      "weight": "5g",
+      "weightRange": "4-8",
+      "metal": "18k",
+      "imgUrl": "ring-2.jpeg"
+    },
+    {
+      "id": "4",
+      "itemCode": "R1",
+      "itemType": "Sapphire Ring 22k",
+      "weight": "3g",
+      "weightRange": "2-4",
+      "metal": "22k",
+      "imgUrl": "ring-2.jpeg"
+    },
+    {
+      "id": "5",
+      "itemCode": "R1",
+      "itemType": "Sapphire Ring 18k",
+      "weight": "10g",
+      "weightRange": "8-12",
+      "metal": "18k",
+      "imgUrl": "ring-2.jpeg"
+    },
+    {
+      "id": "6",
+      "itemCode": "R1",
+      "itemType": "Sapphire Ring 22k",
+      "weight": "5g",
+      "weightRange": "4-8",
+      "metal": "22k",
+      "imgUrl": "ring-2.jpeg"
+    },
+    {
+      "id": "7",
+      "itemCode": "R1",
+      "itemType": "Sapphire Ring 22k",
+      "weight": "10g",
+      "weightRange": "8-12",
+      "metal": "22k",
+      "imgUrl": "ring-2.jpeg"
+    }
+  ],
+  "pendants": [
+    {
+      "id": "1",
+      "itemCode": "P1",
+      "itemType": "Gold Pendant 18k",
+      "weight": "10g",
+      "metal": "18k",
+      "imgUrl": "pendant.webp"
+    },
+    {
+      "id": "2",
+      "itemCode": "P1",
+      "itemType": "Gold Pendant 22k",
+      "weight": "10g",
+      "metal": "22k",
+      "imgUrl": "pendant.webp"
+    },
+    {
+      "id": "3",
+      "itemCode": "P1",
+      "itemType": "Gold Pendant 18k",
+      "weight": "10g",
+      "metal": "18k",
+      "imgUrl": "pendant.webp"
+    },
+    {
+      "id": "4",
+      "itemCode": "P1",
+      "itemType": "Gold Pendant 22k",
+      "weight": "10g",
+      "metal": "22k",
+      "imgUrl": "pendant.webp"
+    },
+    {
+      "id": "5",
+      "itemCode": "P1",
+      "itemType": "Gold Pendant 18k",
+      "weight": "10g",
+      "metal": "18k",
+      "imgUrl": "pendant.webp"
+    },
+    {
+      "id": "6",
+      "itemCode": "P1",
+      "itemType": "Gold Pendant 22k",
+      "weight": "10g",
+      "metal": "22k",
+      "imgUrl": "pendant.webp"
+    },
+    {
+      "id": "7",
+      "itemCode": "P1",
+      "itemType": "Gold Pendant 18k",
+      "weight": "10g",
+      "metal": "18k",
+      "imgUrl": "pendant.webp"
+    },
+    {
+      "id": "8",
+      "itemCode": "P1",
+      "itemType": "Gold Pendant 22k",
+      "weight": "10g",
+      "metal": "22k",
+      "imgUrl": "pendant.webp"
+    },
+    {
+      "id": "9",
+      "itemCode": "P1",
+      "itemType": "Gold Pendant 18k",
+      "weight": "10g",
+      "metal": "18k",
+      "imgUrl": "pendant.webp"
+    }
+  ],
+  "bracelets": [
+    {
+      "id": "1",
+      "itemCode": "BR1",
+      "itemType": "Leather Bracelet 22k",
+      "weight": "2g",
+      "metal": "22k",
+      "imgUrl": "bangle.jpeg"
+    },
+    {
+      "id": "2",
+      "itemCode": "BR1",
+      "itemType": "Leather Bracelet 18k",
+      "weight": "2g",
+      "metal": "18k",
+      "imgUrl": "bangle.jpeg"
+    },
+    {
+      "id": "3",
+      "itemCode": "BR1",
+      "itemType": "Leather Bracelet 22k",
+      "weight": "2g",
+      "metal": "22k",
+      "imgUrl": "bangle.jpeg"
+    },
+    {
+      "id": "4",
+      "itemCode": "BR1",
+      "itemType": "Leather Bracelet 18k",
+      "weight": "2g",
+      "metal": "18k",
+      "imgUrl": "bangle.jpeg"
+    },
+    {
+      "id": "5",
+      "itemCode": "BR1",
+      "itemType": "Leather Bracelet 22k",
+      "weight": "2g",
+      "metal": "22k",
+      "imgUrl": "bangle.jpeg"
+    },
+    {
+      "id": "6",
+      "itemCode": "BR1",
+      "itemType": "Leather Bracelet 22k",
+      "weight": "2g",
+      "metal": "22k",
+      "imgUrl": "bangle.jpeg"
+    },
+    {
+      "id": "7",
+      "itemCode": "BR1",
+      "itemType": "Leather Bracelet 18k",
+      "weight": "2g",
+      "metal": "18k",
+      "imgUrl": "bangle.jpeg"
+    },
+    {
+      "id": "8",
+      "itemCode": "BR1",
+      "itemType": "Leather Bracelet 22k",
+      "weight": "2g",
+      "metal": "22k",
+      "imgUrl": "bangle.jpeg"
+    }
+  ],
+  "earrings": [
+    {
+      "id": "1",
+      "itemCode": "E1",
+      "itemType": "Pearl Earrings 22k",
+      "weight": "3g",
+      "metal": "22k",
+      "imgUrl": "earrings.webp"
+    },
+    {
+      "id": "2",
+      "itemCode": "E1",
+      "itemType": "Pearl Earrings 18k",
+      "weight": "3g",
+      "metal": "18k",
+      "imgUrl": "earrings.webp"
+    },
+    {
+      "id": "3",
+      "itemCode": "E1",
+      "itemType": "Pearl Earrings 22k",
+      "weight": "3g",
+      "metal": "22k",
+      "imgUrl": "earrings.webp"
+    },
+    {
+      "id": "4",
+      "itemCode": "E1",
+      "itemType": "Pearl Earrings 18k",
+      "weight": "3g",
+      "metal": "18k",
+      "imgUrl": "earrings.webp"
+    },
+    {
+      "id": "5",
+      "itemCode": "E1",
+      "itemType": "Pearl Earrings 22k",
+      "weight": "3g",
+      "metal": "22k",
+      "imgUrl": "earrings.webp"
+    },
+    {
+      "id": "6",
+      "itemCode": "E1",
+      "itemType": "Pearl Earrings 18k",
+      "weight": "3g",
+      "metal": "18k",
+      "imgUrl": "earrings.webp"
+    },
+    {
+      "id": "7",
+      "itemCode": "E1",
+      "itemType": "Pearl Earrings 22k",
+      "weight": "3g",
+      "metal": "22k",
+      "imgUrl": "earrings.webp"
+    },
+    {
+      "id": "8",
+      "itemCode": "E1",
+      "itemType": "Pearl Earrings 18k",
+      "weight": "3g",
+      "metal": "18k",
+      "imgUrl": "earrings.webp"
+    },
+    {
+      "id": "9",
+      "itemCode": "E1",
+      "itemType": "Pearl Earrings 22k",
+      "weight": "3g",
+      "metal": "22k",
+      "imgUrl": "earrings.webp"
+    },
+    {
+      "id": "10",
+      "itemCode": "E1",
+      "itemType": "Pearl Earrings 18k",
+      "weight": "3g",
+      "metal": "18k",
+      "imgUrl": "earrings.webp"
+    }
+  ],
+  "chains": [
+    {
+      "id": "1",
+      "itemCode": "C1",
+      "itemType": "Gold Chain 22k",
+      "weight": "12g",
+      "metal": "22k",
+      "imgUrl": "chains-1.jpeg"
+    },
+    {
+      "id": "2",
+      "itemCode": "C1",
+      "itemType": "Gold Chain 18k",
+      "weight": "12g",
+      "metal": "18k",
+      "imgUrl": "chains-1.jpeg"
+    },
+    {
+      "id": "3",
+      "itemCode": "C1",
+      "itemType": "Gold Chain 22k",
+      "weight": "12g",
+      "metal": "22k",
+      "imgUrl": "chains-1.jpeg"
+    },
+    {
+      "id": "4",
+      "itemCode": "C1",
+      "itemType": "Gold Chain 18k",
+      "weight": "12g",
+      "metal": "18k",
+      "imgUrl": "chains-1.jpeg"
+    },
+    {
+      "id": "5",
+      "itemCode": "C1",
+      "itemType": "Gold Chain 22k",
+      "weight": "12g",
+      "metal": "22k",
+      "imgUrl": "chains-1.jpeg"
+    },
+    {
+      "id": "6",
+      "itemCode": "C1",
+      "itemType": "Gold Chain 22k",
+      "weight": "12g",
+      "metal": "22k",
+      "imgUrl": "chains-1.jpeg"
+    },
+    {
+      "id": "7",
+      "itemCode": "C1",
+      "itemType": "Gold Chain 18k",
+      "weight": "12g",
+      "metal": "18k",
+      "imgUrl": "chains-1.jpeg"
+    },
+    {
+      "id": "8",
+      "itemCode": "C1",
+      "itemType": "Gold Chain 22k",
+      "weight": "12g",
+      "metal": "22k",
+      "imgUrl": "chains-1.jpeg"
+    }
+  ]
+}

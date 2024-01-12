@@ -1,0 +1,713 @@
+@import url("https://fonts.googleapis.com/css2?family=Roboto:wght@300&display=swap");
+
+.container-xl {
+  padding-left: 50px !important;
+  padding-right: 50px !important;
+}
+
+.container {
+  padding-left: 50px !important;
+  padding-right: 50px !important;
+}
+
+.navbar {
+  padding-left: 50px !important;
+  padding-right: 50px !important;
+}
+
+/* Nav bar styles -------------------------------*/
+
+/* .Nav{
+    background-color: #f2f2f2;
+} */
+
+.nav-title {
+  font-family: grandiflora one;
+  font-size: 50px;
+  font-weight: 500;
+  background: linear-gradient(to right, #ffbb00, #ffbb00);
+  -webkit-background-clip: text;
+  color: transparent;
+}
+
+/* .gradient-text {
+ 
+} */
+
+.nav-title:hover {
+  cursor: pointer;
+}
+
+.nav-links {
+  font-family: lora;
+  font-size: 17px;
+}
+
+.nav-links:hover {
+  cursor: pointer;
+  color: #ffbb00;
+}
+
+.nav-linkk {
+  color: #ffbb00 !important;
+}
+
+.toggle-button {
+  border: none !important;
+  margin-top: 30px;
+  width: 40px;
+  height: 40px;
+  color: #ffbb00;
+}
+
+.drop-down-btn {
+  color: #000000;
+  font-size: 12px;
+}
+.dropdown-menu {
+  font-family: lora;
+  font-size: 14px;
+  border: none;
+  border-radius: 0;
+  width: 100px !important;
+  box-shadow: 0 3px 50px rgba(0, 0, 0, 0.2);
+  width: 200px !important;
+  font-weight: 100;
+}
+
+.dropdown-item-border {
+  border-bottom: 5px solid;
+  border-color: #f2f2f2;
+}
+
+.dropdown-item:hover {
+  color: #ffbb00;
+}
+
+.dropdown-item:active,
+.dropdown-item:focus {
+  outline: none !important;
+  background-color: transparent !important;
+}
+
+.navbar-nav .nav-item.dropdown:hover .dropdown-menu {
+  display: block;
+}
+
+.dropdown-menu.show {
+  display: block !important;
+}
+
+/* Home styles -------------------------------*/
+.home-title {
+  font-family: grandiflora one;
+}
+
+.home-sub-title {
+  font-family: grandiflora one;
+}
+
+.home-item-1 {
+  height: 400px;
+  /* background-color: #f2f2f2; */
+  background-size: cover;
+  background-position: center;
+}
+
+.home-item-2 {
+  padding: 20px;
+  padding-right: 0;
+  height: 180px;
+  background-color: #f2f2f2;
+}
+
+.home-item-5 {
+  padding: 20px;
+  padding-left: 0;
+  height: 180px;
+  background-color: #f2f2f2;
+}
+
+.home-item-3 {
+  padding: 20px;
+  padding-top: 0;
+  height: 500px;
+  background-color: #f2f2f2;
+}
+
+.home-item-6 {
+  padding: 20px;
+  padding-top: 0;
+  height: 580px;
+  background-color: #f2f2f2;
+}
+
+.home-item-4 {
+  padding: 20px;
+  padding-right: 0;
+  height: 180px;
+  background-color: #f2f2f2;
+}
+
+.home-item-7 {
+  padding: 20px;
+  padding-right: 0;
+  height: 180px;
+  background-color: #f2f2f2;
+}
+
+.home-item-2-title {
+  font-family: lora;
+  font-size: 25px;
+}
+
+.home-item-5-title {
+  font-family: lora;
+  font-size: 25px;
+}
+
+.home-item-5-img-holder {
+  width: auto;
+  height: 135px;
+  /* background-color: #d6d6d6; */
+  background-size: cover;
+  background-position: center;
+}
+
+.home-item-2-img-holder {
+  width: auto;
+  height: 135px;
+  /* background-color: #d6d6d6; */
+  background-size: cover;
+  background-position: center;
+}
+
+.item-content {
+  font-family: grandiflora one;
+}
+
+.home-item-5-link {
+  color: crimson;
+  font-size: 12px;
+  font-weight: 500;
+  margin-left: 18px;
+}
+
+.home-item-2-link {
+  color: crimson;
+  font-size: 12px;
+  font-weight: 500;
+  margin-left: 2px;
+}
+
+.home-item-3-img-holder {
+  width: auto;
+  height: 330px;
+  /* background-color: #d6d6d6; */
+  background-size: cover;
+  background-position: center;
+}
+
+.home-item-6-img-holder {
+  width: auto;
+  height: 410px;
+  /* background-color: #d6d6d6; */
+  background-size: cover;
+  background-position: center;
+}
+
+.home-item-6-title {
+  font-family: lora;
+  font-size: 25px;
+}
+.home-item-6-link {
+  color: crimson;
+  font-size: 12px;
+  font-weight: 500;
+  margin-left: 2px;
+}
+.home-item-3-title {
+  font-family: lora;
+  font-size: 25px;
+}
+
+.home-item-3-link {
+  color: crimson;
+  font-size: 12px;
+  font-weight: 500;
+  margin-left: 2px;
+}
+
+.home-item-4-title {
+  font-family: lora;
+  font-size: 25px;
+}
+
+.home-item-4-link {
+  color: crimson;
+  font-size: 12px;
+  font-weight: 500;
+  margin-left: 2px;
+}
+
+.home-item-4-img-holder {
+  width: auto;
+  height: 135px;
+  /* background-color: #d6d6d6; */
+  background-size: cover;
+  background-position: center;
+  transform: scaleY(-1);
+}
+
+.home-item-7-title {
+  font-family: lora;
+  font-size: 25px;
+}
+
+.category-content {
+  font-family: lora;
+  font-weight: 100;
+}
+
+.home-item-7-link {
+  color: crimson;
+  font-size: 12px;
+  font-weight: 500;
+  margin-left: 2px;
+}
+
+.home-item-7-img-holder {
+  width: auto;
+  height: 135px;
+  /* background-color: #d6d6d6; */
+  background-size: cover;
+  background-position: center;
+}
+
+/* img slider styles -------------------------------*/
+.slide-img {
+  background-size: cover;
+  background-position: center;
+}
+
+/* img gallery home styles -------------------------------*/
+.gallery-div {
+  background-color: #f2f2f2;
+  height: 300px;
+}
+
+/* Our Story styles -------------------------------*/
+.our-story-title {
+  font-family: grandiflora one;
+}
+
+.our-story-sub-title {
+  font-family: grandiflora one;
+}
+
+.our-story-item-1-gh {
+  height: 400px;
+  background-size: cover;
+  background-position: center;
+}
+
+.our-story-item-2-gh {
+  padding: 20px;
+  height: 187px;
+  /* background-color: #f2f2f2; */
+}
+
+.our-story-item-3-gh {
+  padding: 20px;
+  height: 187px;
+  /* background-color: #f2f2f2; */
+}
+
+.our-story-item-4-gh {
+  padding: 20px;
+  height: 140px;
+  /* background-color: #f2f2f2; */
+}
+
+.content-o {
+  font-weight: 200;
+}
+
+.custom-justify {
+  text-align: justify;
+}
+
+.our-story-item-1-bd {
+  height: 400px;
+  background-size: cover;
+  background-position: center;
+}
+
+.our-story-item-2-bd {
+  padding: 20px;
+  height: 187px;
+  /* background-color: #f2f2f2; */
+}
+
+.our-story-item-3-bd {
+  padding: 20px;
+  height: 187px;
+  /* background-color: #f2f2f2; */
+}
+
+.our-story-item-4-bd {
+  padding: 20px;
+  height: 140px;
+  /* background-color: #f2f2f2; */
+}
+
+/* contact us styles -------------------------------*/
+.contact-title {
+  font-family: grandiflora one;
+}
+
+.contact-sub-title {
+  font-family: grandiflora one;
+}
+
+
+
+.contact-box-title {
+  font-weight: 100;
+  /* font-family: grandiflora one; */
+}
+.contact-1,
+.contact-2,
+.contact-3 {
+  padding-top: 30px;
+  height: 400px;
+  /* background-color: #f2f2f2; */
+  border: solid;
+  border-color: #ffbb00;
+  transition: box-shadow 0.3s ease-in-out;
+}
+
+.contact-1:hover,
+.contact-2:hover,
+.contact-3:hover {
+  box-shadow: 0 3px 50px rgba(0, 0, 0, 0.2);
+}
+
+.content-contact-card {
+  margin-top: 70px;
+}
+
+
+.telno {
+  font-weight: 100;
+}
+
+.icon-col {
+  color: #ffbb00;
+}
+
+.address {
+  font-weight: 100;
+}
+
+/* Jewellery section styles -------------------------------*/
+.category-selector-jewell {
+  margin-top: 50px;
+  padding-top: 20px;
+  padding-bottom: 20px;
+  height: 1000px;
+  background-color: #f2f2f2;
+}
+
+.category-selector-jewell-title {
+  font-family: lora;
+  /* font-weight: 500; */
+  font-size: 23px;
+  font-weight: 500;
+}
+
+.category-list-jewell {
+  margin-top: 15px;
+}
+
+.category-item-jewell {
+  font-family: grandiflora one;
+  font-size: 14px;
+  margin-bottom: 10px;
+}
+
+.active-link {
+  font-family: lora;
+  color: #ffbb00;
+}
+
+.category-item-jewell::marker {
+  font-size: 25px;
+  color: #ffbb00;
+}
+
+.category-item-jewell:hover {
+  color: #ffbb00;
+}
+
+.metal-selector-jewell-title {
+  font-family: lora;
+  /* font-weight: 500; */
+  font-size: 23px;
+}
+
+.metal-list-jewell {
+  margin-top: 15px;
+  margin-left: 12px;
+}
+
+.metal-item-jewell {
+  font-size: 12px;
+  margin-bottom: 10px;
+  border: solid;
+  border-color: #ffbb00;
+  color: #ffbb00;
+}
+
+.metal-item-jewell:hover {
+  background-color: #ffbb00 !important;
+  color: white;
+}
+
+.active-metal-btn {
+  background-color: #ffbb00 !important;
+  color: white;
+}
+
+.weight-selector-jewell-title {
+  font-family: lora;
+  /* font-weight: 500; */
+  font-size: 23px;
+}
+
+.weight-list-jewell {
+  margin-top: 15px;
+  margin-left: 12px;
+}
+
+.weight-item-jewell {
+  font-size: 12px;
+  margin-bottom: 10px;
+  border: solid;
+  border-color: #ffbb00;
+  color: #ffbb00;
+}
+
+.weight-item-jewell:hover {
+  background-color: #ffbb00 !important;
+  color: white;
+}
+
+.active-weight-btn {
+  background-color: #ffbb00 !important;
+  color: white;
+}
+
+.items-jewell {
+  padding-top: 30px;
+  padding-bottom: 30px;
+  height: auto;
+}
+
+.jewell-category {
+  font-family: lora;
+}
+
+/*  jewell card styles -------------------------------*/
+.item-card-jewell {
+  /* background-color: #f2f2f2; */
+  border: solid #ffbb00;
+  height: 300px;
+  padding-top: 20px;
+  padding-left: 10px;
+  padding-right: 10px;
+}
+
+.item-image-jewell {
+  width: auto;
+  height: 220px;
+  /* background-color: #d6d6d6; */
+  background-size: cover;
+  background-position: center;
+}
+
+.item-des-demo-jewell {
+  height: 65px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  /* background-color: #d6d6d6; */
+}
+
+/* bridal dress styles -------------------------------*/
+.category-selector-bridal {
+  margin-top: 50px;
+  padding-top: 20px;
+  padding-bottom: 20px;
+  height: 600px;
+  background-color: #f2f2f2;
+}
+.category-selector-bridal-title {
+  font-family: lora;
+  /* font-weight: 500; */
+  font-size: 23px;
+}
+
+.category-list-bridal {
+  margin-top: 15px;
+  font-family: grandiflora one;
+}
+
+.category-item-bridal {
+  font-size: 14px;
+  font-weight: 100;
+  margin-bottom: 10px;
+}
+
+.category-item-bridal::marker {
+  font-size: 25px;
+  color: #ffbb00;
+}
+
+.category-item-bridal:hover {
+  color: #ffbb00;
+}
+
+.culture-selector-title {
+  font-family: lora;
+  /* font-weight: 500; */
+  font-size: 23px;
+}
+
+.culture-list {
+  margin-top: 15px;
+  margin-left: 12px;
+}
+
+.culture-item {
+  font-size: 12px;
+  margin-bottom: 10px;
+  border: solid;
+  border-color: #ffbb00;
+  color: #ffbb00;
+}
+
+.culture-item:hover {
+  background-color: #ffbb00 !important;
+  color: white;
+}
+
+.active-culture-btn {
+  background-color: #ffbb00 !important;
+  color: white;
+}
+
+.items-bridal {
+  padding-top: 30px;
+  padding-bottom: 30px;
+  height: auto;
+}
+
+.bridaldress-category {
+  font-family: lora;
+}
+
+/*  bridal dress card styles -------------------------------*/
+.item-card-bridal {
+  /* background-color: #f2f2f2; */
+  border: solid #ffbb00;
+  height: 300px;
+  padding-top: 20px;
+  padding-left: 10px;
+  padding-right: 10px;
+}
+
+.item-image-bridal {
+  height: 220px;
+  /* background-color: #d6d6d6; */
+  background-size: cover;
+  background-position: center;
+}
+
+.item-des-demo-bridal {
+  height: 65px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  /* background-color: #d6d6d6; */
+}
+
+/* footer styles -------------------------------*/
+.footer {
+  width: auto;
+  height: auto;
+  background-color: #000000;
+}
+
+.foot-topic-1 {
+  font-family: lora;
+  font-size: 15px;
+}
+
+.foot-topic-2 {
+  font-weight: 300;
+  font-size: 11px;
+}
+
+.foot-topic-3 {
+  font-weight: 300;
+  font-size: 12px;
+}
+
+.foot-second-section:hover {
+  cursor: pointer;
+  color: #ffbb00;
+}
+
+.foot {
+  border-bottom: solid;
+  border-color: #ffbb00;
+}
+
+.icon-foot {
+  font-size: 15px;
+  color: #ffbb00;
+}
+
+.foot-end {
+  font-size: 14px;
+}
+
+.social-icons {
+  width: 50px;
+  margin-top: 30px;
+}
+
+/* Not-found styles -------------------------------*/
+.not-found-section {
+  width: 100hw;
+  height: 300px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+
+.not-found {
+  font-family: grandiflora one;
+}
+
+.link-to-home {
+  cursor: pointer;
+  color: #ffbb00;
+  text-decoration: none;
+}
+
+.img-1 {
+  width: 100%;
+  height: 100%;
+}
