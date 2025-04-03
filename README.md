@@ -34,10 +34,10 @@ Follow these steps to run the project locally:
 3. **Start the JSON Server:**
 
    ```bash
-   npx json-server --watch data/bridaldb.json --port 5000
+   npx json-server --watch data/bridaldb.json --port 8001
    ```
    ```bash
-   npx json-server --watch data/jewelldb.json --port 5000
+   npx json-server --watch data/jewelldb.json --port 8000
    ```
 
 4. **Run the React app:**
